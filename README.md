@@ -1,0 +1,2 @@
+# qpanel
+jquery panel plugin

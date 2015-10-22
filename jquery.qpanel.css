@@ -1,0 +1,58 @@
+.poppanel {
+    border: 1px solid #76BBFF;
+    padding: 5px;
+    width: 330px;
+	background:#ffffff;
+	position:absolute;
+}
+.poppanel .pophead
+{
+	background: none repeat scroll 0 0 #2288EE;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    height: 28px;
+    line-height: 28px;
+    overflow: hidden;
+    text-indent: 10px;
+}
+.poppanel .popcontent-title {
+    color: #FF6600;
+    line-height: 22px;
+    padding: 1px 0;
+    text-align: center;
+   /* width: 25px;*/
+	white-space: nowrap;
+    word-break: keep-all;
+}
+.poppanel .popcontent-title, .popcontent-def {
+    float: left;
+}
+.poppanel .popcontent-def {
+    width: 304px;
+}
+.poppanel .popcontent-hover {
+    background: none repeat scroll 0 0 #FFF8EE;
+    border: 1px solid #FFD5A1;
+    color: #FF6600;
+    text-decoration: none;
+	cursor: pointer;	
+}
+.poppanel .chooseitem {
+    border: 1px solid #FFFFFF;
+    color: #005BB5;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 22px;
+    line-height: 22px;
+    margin-left: 0;
+    margin-right: 2px;
+    margin-top: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+	
+	white-space: nowrap;
+    word-break: keep-all;
+	
+}
